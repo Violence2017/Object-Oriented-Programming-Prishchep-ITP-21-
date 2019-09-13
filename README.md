@@ -1,2 +1,2 @@
-# Object-Oriented-Programming(Прищеп)
+# Object-Oriented-Programming
 Study
